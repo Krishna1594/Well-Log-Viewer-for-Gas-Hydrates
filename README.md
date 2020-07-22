@@ -1,4 +1,4 @@
-# Well-Log-Viewer-
+# Well Log Viewer 
 This repository contains various versions of the 'Well Log Viewer".  The intention of these tools is to utilize them in well-log interpretation and evaluation of formations quickly at the same time remembering the calculations, theory and pertinent assumptions behind the each tool. These are not just codes, this is my understanding of Petroleum/Petrophysics and a reminder that I am an engineer!
 ## Table of Contents
 [Introduction](#Introduction)
