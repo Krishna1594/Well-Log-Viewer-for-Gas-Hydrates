@@ -8,3 +8,4 @@ This repository contains various versions of the 'Well Log Viewer".  The intenti
 Please note that the following codes are written in MATLAB (.m) files and can be loaded through matlab software installed in your computer.
 ### Usage
 These can be used to generate well logs for various types of data storage formats and are strictly structural based record of the data in a log file. These codes can also be used to import, read, analyze and categorize the data depending on the type of data format (for example, for excel '.xlsx' and for text/ASCII files '.txt' or '.las'.) in any new tool. A very quick way and easy than searching for 'import' button.
+Introduction
