@@ -12,10 +12,4 @@ Please note that the following codes are written in MATLAB (.m) files and can be
 ### Usage
 These can be used to generate well logs for various types of data storage formats and are strictly structural based record of the data in a log file. These codes can also be used to import, read, analyze and categorize the data depending on the type of data format (for example, for excel '.xlsx' and for text/ASCII files '.txt' or '.las'.) in any new tool. A very quick way and easy than searching for 'import' button.
 ### Introduction
-he lack of a GitHub-Flavored Markdown table of contents marker seems to be a common complaint. It looks like there’s at least one automated option (DocToc), but I figured that I could learn something by working up a manual table of contents in Markdown.
-
-I didn’t find a step-by-step guide, so I patched together one way to do it from various Markdown cheatsheets and StackOverflow posts. Here’s what I did.
-
-Let’s get this out of the way…yes, manually creating a table of contents in Markdown is a pain. If you regularly add and delete sections in your README file, it’s even worse because you have to remember to update the table of contents too. The more headings your document has, the worse it gets. It’s not realistic to manually create tables of contents for every GitHub README file.
-
-It does work, though. We will focus on that part for right now!
+A service company has its own format of recording and storing data. The data is either stored in '.las' file format or '.xlsx','.xlsm' format. Sometimes companies also store the raw data in log-ASCII format but as a separate file for each loging tool or sonde. The data in the file can be in a structured manner or unstructured manner. Analyzing data recorded/stored in a structured manner is a bit easy as a trend can be deduced but not for the unstructured data. Identifying a trend and respective data is important. 
