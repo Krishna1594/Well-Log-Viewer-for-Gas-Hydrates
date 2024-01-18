@@ -1,5 +1,5 @@
 # Well Log Viewer 
-This repository contains various versions of the 'Well Log Viewer".  The intention of these tools is to utilize them in well-log interpretation and evaluation of formations quickly at the same time remembering the calculations, theory and pertinent assumptions behind the each tool. Please refer 
+This repository contains various versions of the 'Well Log Viewer".  The intention of these tools is to utilize them in well-log interpretation and evaluation of formations quickly at the same time remembering the calculations, theory and pertinent assumptions behind the each tool. Please refer to the report.
 ## Table of Contents
 [Introduction](#Introduction)
 
